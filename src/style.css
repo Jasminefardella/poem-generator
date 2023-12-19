@@ -61,8 +61,17 @@ input {
   border-radius: 5px;
 }
 
+.submit-button:hover {
+  cursor: pointer;
+}
+
 .poem {
   line-height: 1.5;
+  padding: 10px;
+}
+
+.poem strong {
+  color: rgb(91, 208, 232);
 }
 
 footer {
