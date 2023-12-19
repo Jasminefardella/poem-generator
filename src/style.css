@@ -37,10 +37,15 @@ form {
   margin-bottom: 30px;
 }
 
+input {
+  display: block;
+  margin: 0 auto;
+}
+
 .instructions {
   padding: 16px;
   border: 1px solid;
-  width: 60%;
+  width: 70%;
   font-size: 16px;
   border-radius: 5px;
   line-height: 20px;
@@ -48,12 +53,18 @@ form {
 }
 
 .submit-button {
-  margin-left: 10px;
   background-color: rgb(217, 241, 246);
   color: #140844;
   border: none;
   width: 150px;
   font-size: 16px;
   border-radius: 5px;
-  padding: 14px 24px;
+}
+
+.poem {
+  line-height: 1.5;
+}
+
+footer {
+  text-align: center;
 }
