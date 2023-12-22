@@ -12,7 +12,7 @@ a {
   background-color: white;
   margin: 120px auto;
   max-width: 800px;
-  border: 1px solid #140844;
+  border: 3px solid #140844;
   border-radius: 5px;
 }
 
@@ -54,7 +54,7 @@ input {
 
 .instructions {
   padding: 16px;
-  border: 1px solid;
+  border: 3px solid;
   width: 70%;
   font-size: 16px;
   border-radius: 5px;
@@ -80,8 +80,8 @@ input {
 .poem {
   line-height: 2;
   padding: 10px;
-  margin: 10px;
-  border: solid 1px;
+  margin: 20px;
+  border: solid 3px;
   border-radius: 5px;
   border-left: 4px solid rgb(105, 210, 231);
   background-color: rgb(217, 241, 246);
